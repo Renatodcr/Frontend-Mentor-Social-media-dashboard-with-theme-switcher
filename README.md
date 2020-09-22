@@ -1,3 +1,5 @@
+**Para ver o projeto acesse o link https://desafiosocialmediadashboard.netlify.app/**
+
 # Frontend Mentor - Social media dashboard with theme switcher
 
 ![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
